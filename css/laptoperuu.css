@@ -1,0 +1,56 @@
+h1 {
+	color: white;
+	padding-top: 10px;
+}
+
+p {
+	color: white;
+	text-shadow: 2px 1px black;
+}
+
+h5 {
+	font-weight: bold; 
+	color: 	white;
+	
+}
+
+h2 {
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 1px black;
+}
+
+body {
+ 	background-image: url('https://cutewallpaper.org/21/video-games-collage-wallpaper/Wallpaper-video-games,-fantasy-art,-collage,-The-Legend-of-.jpg');
+ 	max-height: : 100%;
+ 	max-width: 100%;
+ 	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-attachment: fixed;
+}
+
+img{
+	max-width:100%;
+	max-height: 100%;
+}
+
+textarea {
+	max-width:100%;
+	max-height: 100%;
+	resize: none;	
+}
+
+
+.gallery{
+	padding: 80px 0;
+}
+.gallery img{
+	padding:15px;
+	width:100%;
+	box-shadow:0 0 15px rgba(0,0,0,3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+width: 100%;
+}
